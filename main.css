@@ -1,0 +1,32 @@
+h2 {
+    background-color: limegreen;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+nav {
+    background-color: lightblue;
+    padding: 10px;
+}
+
+header {
+    background-color: lightgrey;
+    padding: 10px;
+}
+
+aside {
+    background-color: lightgoldenrodyellow;
+    padding: 10px;
+}
+
+.parrafo {
+    color: red;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+#demo {
+    color: green;
+    font-size: 16px;
+    line-height: 1.5;
+}
